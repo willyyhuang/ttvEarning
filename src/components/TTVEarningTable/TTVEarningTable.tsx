@@ -27,7 +27,6 @@ const TTVEarningTable = ({rows}: TTVEarningTablePropType) => {
               <TableCell>Ranking</TableCell>
               <TableCell align='center'>Channel name</TableCell>
               <TableCell align='right'>Total earning</TableCell>
-              <TableCell align='right'>Earning from Aug 2019</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -41,7 +40,6 @@ const TTVEarningTable = ({rows}: TTVEarningTablePropType) => {
                     {row.ranking}
                   </TableCell>
                   <TableCell align='center'>{row.channelName}</TableCell>
-                  <TableCell align='right'>{`$${row.totalEarning}`}</TableCell>
                   <TableCell align='right'>{`$${row.partialEarning}`}</TableCell>
                 </TableRow>
               ))}
