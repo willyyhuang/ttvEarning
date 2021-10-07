@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ttvEarning/static/css/main.618634b5.chunk.css",
-    "main.js": "/ttvEarning/static/js/main.32a0ccb1.chunk.js",
-    "main.js.map": "/ttvEarning/static/js/main.32a0ccb1.chunk.js.map",
+    "main.js": "/ttvEarning/static/js/main.4306619f.chunk.js",
+    "main.js.map": "/ttvEarning/static/js/main.4306619f.chunk.js.map",
     "runtime-main.js": "/ttvEarning/static/js/runtime-main.09ed4ca3.js",
     "runtime-main.js.map": "/ttvEarning/static/js/runtime-main.09ed4ca3.js.map",
-    "static/js/2.866cadcc.chunk.js": "/ttvEarning/static/js/2.866cadcc.chunk.js",
-    "static/js/2.866cadcc.chunk.js.map": "/ttvEarning/static/js/2.866cadcc.chunk.js.map",
+    "static/js/2.a6064932.chunk.js": "/ttvEarning/static/js/2.a6064932.chunk.js",
+    "static/js/2.a6064932.chunk.js.map": "/ttvEarning/static/js/2.a6064932.chunk.js.map",
     "index.html": "/ttvEarning/index.html",
     "static/css/main.618634b5.chunk.css.map": "/ttvEarning/static/css/main.618634b5.chunk.css.map",
-    "static/js/2.866cadcc.chunk.js.LICENSE.txt": "/ttvEarning/static/js/2.866cadcc.chunk.js.LICENSE.txt"
+    "static/js/2.a6064932.chunk.js.LICENSE.txt": "/ttvEarning/static/js/2.a6064932.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09ed4ca3.js",
-    "static/js/2.866cadcc.chunk.js",
+    "static/js/2.a6064932.chunk.js",
     "static/css/main.618634b5.chunk.css",
-    "static/js/main.32a0ccb1.chunk.js"
+    "static/js/main.4306619f.chunk.js"
   ]
 }
