@@ -24,7 +24,7 @@
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
-  "plugins": ["react"],
+  "plugins": ["react", "prettier"],
   "rules": {
     "import-extensions": "off",
     "key-spacing": [
@@ -51,7 +51,7 @@
     "react/jsx-filename-extension": "off",
     "import/prefer-default-export": "off",
     "import/no-unresolved": "off",
-    "react/jsx-closing-bracket-location": [1, "after-props"],
+    "react/jsx-closing-bracket-location": "off",
     "react/jsx-wrap-multilines": "off",
     "import/no-extraneous-dependencies": "off",
     "consistent-return": "off",
@@ -74,6 +74,7 @@
         "ts": "never",
         "tsx": "never"
       }
-    ]
+    ],
+    "function-paren-newline": ["error", "consistent"]
   }
 }
