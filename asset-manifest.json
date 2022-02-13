@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ttvEarning/static/css/main.618634b5.chunk.css",
-    "main.js": "/ttvEarning/static/js/main.4306619f.chunk.js",
-    "main.js.map": "/ttvEarning/static/js/main.4306619f.chunk.js.map",
+    "main.css": "/ttvEarning/static/css/main.f2e1a9d2.chunk.css",
+    "main.js": "/ttvEarning/static/js/main.b48dfbe1.chunk.js",
+    "main.js.map": "/ttvEarning/static/js/main.b48dfbe1.chunk.js.map",
     "runtime-main.js": "/ttvEarning/static/js/runtime-main.09ed4ca3.js",
     "runtime-main.js.map": "/ttvEarning/static/js/runtime-main.09ed4ca3.js.map",
-    "static/js/2.a6064932.chunk.js": "/ttvEarning/static/js/2.a6064932.chunk.js",
-    "static/js/2.a6064932.chunk.js.map": "/ttvEarning/static/js/2.a6064932.chunk.js.map",
+    "static/js/2.8cc4a97d.chunk.js": "/ttvEarning/static/js/2.8cc4a97d.chunk.js",
+    "static/js/2.8cc4a97d.chunk.js.map": "/ttvEarning/static/js/2.8cc4a97d.chunk.js.map",
     "index.html": "/ttvEarning/index.html",
-    "static/css/main.618634b5.chunk.css.map": "/ttvEarning/static/css/main.618634b5.chunk.css.map",
-    "static/js/2.a6064932.chunk.js.LICENSE.txt": "/ttvEarning/static/js/2.a6064932.chunk.js.LICENSE.txt"
+    "static/css/main.f2e1a9d2.chunk.css.map": "/ttvEarning/static/css/main.f2e1a9d2.chunk.css.map",
+    "static/js/2.8cc4a97d.chunk.js.LICENSE.txt": "/ttvEarning/static/js/2.8cc4a97d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09ed4ca3.js",
-    "static/js/2.a6064932.chunk.js",
-    "static/css/main.618634b5.chunk.css",
-    "static/js/main.4306619f.chunk.js"
+    "static/js/2.8cc4a97d.chunk.js",
+    "static/css/main.f2e1a9d2.chunk.css",
+    "static/js/main.b48dfbe1.chunk.js"
   ]
 }
